@@ -1,0 +1,14 @@
+
+
+public class HelloWorld
+{
+   static void hello () {
+       System.out.println("Hello Armaan!!!!!!");
+    }
+       static void armaÁ () {
+       System.out.println("Bye Armaan!!!!!!");
+   }
+      static void bob () {
+       System.out.println("ln means line");
+   }
+}
