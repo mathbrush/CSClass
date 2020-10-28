@@ -1,0 +1,50 @@
+public class UwUBoi
+{
+    static void main()
+    {
+    //addition
+    int A=1;
+    int B=2;
+    int C=A+B;
+    System.out.println(C);
+    //subtraction
+    int D=4;
+    int E=3;
+    int F=D-E;
+    System.out.println(F);
+    //multiplication
+    int G=5;
+    int H=6;
+    int I=G*H;
+    System.out.println(I);
+    //division
+    int J=14;
+    int K=7;
+    int L=J/K;
+    System.out.println(L);
+    //increment +
+    int M=8;
+    M++;
+    System.out.println(M);
+    //increment -
+    int N=9;
+    N--;
+    System.out.println(N);
+    //idk +
+    int O=10;
+    O+=11;
+    System.out.println(O);
+    //idk -
+    int P=72;
+    P-=27;
+    System.out.println(P);
+    //idk *
+    int Q=11;
+    Q*=12;
+    System.out.println(Q);
+    //idk /
+    int R=132;
+    R/=11;
+    System.out.println(R);
+}
+}
