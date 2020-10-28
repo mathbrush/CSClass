@@ -1,0 +1,19 @@
+
+public class AllVariables
+{
+    // Please fix your variables!
+    private byte x = 36;
+    private long q = 300000000000000L;
+    private float b = 2.335f;
+    private double c = 2.3454678234987d;
+    private short y = 30000;
+    private int z = 2000000000;
+    private boolean d = true;
+    private char e = 'f';
+
+    public void sampleMethod()
+    {
+        // This does nothing, yay!
+        return;
+    }
+}
