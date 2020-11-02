@@ -1,0 +1,14 @@
+public class txt
+{
+    static void txt(){
+    String hannahsstring = "hi i'm hannah";
+    String htstring = "hi i'm HT";
+    System.out.println (hannahsstring.length());
+    System.out.println (hannahsstring.toUpperCase());
+    System.out.println (htstring.toLowerCase());
+    String result = htstring+hannahsstring;
+    System.out.println(result);
+    String ht ="The dog\'s name is Henry";
+    System.out.println (ht); 
+}
+}
