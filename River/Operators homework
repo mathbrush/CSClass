@@ -1,0 +1,42 @@
+
+public class HellowWorld
+ {
+        static void hello () {
+        System.out.println("Hello World!");
+    }
+        static void main ()
+        {      char x=5;
+              int y=7;
+              int z=y+x;
+               System.out.println(z);
+               int q=y-x;
+                System.out.println(q);
+                int p=y*x;
+                System.out.println (p);
+                int r=y/x;
+                 System.out.println (r);
+                int s=5;
+                s++;
+                System.out.println (s);
+                int t=6;
+                t--;
+                System.out.println (t);
+                int m=x; 
+                m+=6;
+                System.out.println (m);
+                int n=x; 
+                    n-=7;
+                 System.out.println (n);
+                    int b=x;
+                    b*=9;
+                 System.out.println (b);
+                    int v=x;
+                    v/=10;
+                  System.out.println (v);
+                
+                
+                
+        }
+        
+    } 
+  //======= end class HelloWorld =======
