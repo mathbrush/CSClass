@@ -1,0 +1,15 @@
+public class switcch
+{
+    static void switcch()
+    {
+        String IBclasss = "math";
+        switch(IBclasss){
+            case "english":
+            break;
+            case "math": 
+            break;
+            default:
+            break;
+        }         
+        }
+       }
