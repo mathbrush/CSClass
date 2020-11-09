@@ -1,0 +1,14 @@
+public class practice
+{
+   static void practice()
+    {
+     double z=Math.random();
+     double j=Math.random();
+     System.out.println(z);
+     System.out.println(j);
+     System.out.println(Math.max(z,j));
+     System.out.println(Math.abs(z-j));
+     System.out.println(Math.min(z,j));
+     System.out.println(Math.sqrt(z));
+    }
+}
